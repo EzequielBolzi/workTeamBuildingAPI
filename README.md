@@ -1,25 +1,23 @@
 # workTeamBuildingAPI
 
-# TeamBuildingAPI
+##TeamBuildingAPI
 
-Este proyecto es una API desarrollada utilizando Java 8+, Spring Boot, Hibernate/JPA, y Lombok, diseñada para gestionar las propuestas de películas y series para las jornadas de team building en una organizacion. La API permite registrar, actualizar, eliminar y consultar información sobre películas, series, empleados y sus votaciones.
+This project is an API developed using Java 8+, Spring Boot, Hibernate/JPA, and Lombok, designed to manage movie and series proposals for team-building events within an organization. The API allows for registering, updating, deleting, and querying information about movies, series, employees, and their votes.
 
-## Características Principales
+## Main Features
 
-- **Registro de Películas y Series**: Permite registrar detalles como año, director, género, temporadas, duración, empleado propuesto, nota media, empleado implantador, fecha y hora de registro.
-- **Gestión de Empleados**: Almacenamiento de información básica de los empleados como nombre, email, rol (frontend/backend), edad.
-- **Sistema de Votos**: Registro de las puntuaciones otorgadas por los empleados a las películas y series propuestas.
-- **Endpoints de Consulta**: Capacidad para listar todos los empleados, películas, series, y realizar consultas filtradas por género, puntuación, año.
-- **Mejor Propuesta**: Identificación del empleado y la película/serie con la mayor puntuación.
+- **Movie and Series Registration**: Allows registration of details such as year, director, genre, seasons, duration, proposed employee, average rating, implementing employee, and registration date and time.
+- **Employee Management**: Storage of basic employee information such as name, email, role (frontend/backend), age.
+- **Voting System**: Recording of scores given by employees to the proposed movies and series.
+- **Query Endpoints**: Ability to list all employees, movies, series, and perform filtered queries by genre, score, year.
+- **Best Proposal**: Identification of the employee and movie/series with the highest score.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - **Java 8+**
 - **Spring Boot**
-- **Hibernate/JPA** para la gestión de la base de datos PostgreSQL.
-- **Lombok** para reducir la verbosidad del código.
-- **JUnit** para pruebas unitarias.
-- **Swagger** para documentación de la API.
-- **GitFlow** para el flujo de trabajo de desarrollo.
-
-
+- **Hibernate/JPA** for managing the PostgreSQL database.
+- **Lombok** to reduce code verbosity.
+- **JUnit** for unit testing.
+- **Swagger** for API documentation.
+- **GitFlow** for development workflow.
