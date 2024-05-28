@@ -2,7 +2,7 @@
 
 ##TeamBuildingAPI
 
-This project is an API developed using Java 8+, Spring Boot, Hibernate/JPA, and Lombok, designed to manage movie and series proposals for team-building events within an organization. The API allows for registering, updating, deleting, and querying information about movies, series, employees, and their votes.
+This project is an API Rest developed using Java 8+, Spring Boot, Hibernate/JPA, and Lombok, designed to manage movie and series proposals for team-building events within an organization. The API allows for registering, updating, deleting, and querying information about movies, series, employees, and their votes.
 
 ## Main Features
 
