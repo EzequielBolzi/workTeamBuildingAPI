@@ -15,7 +15,7 @@ This project is an API developed using Java 8+, Spring Boot, Hibernate/JPA, and 
 ## Technologies Used
 
 - **Java 8+**
-- **Spring Boot**
+- **Spring Framework (Spring Boot, Spring Security)**
 - **Hibernate/JPA** for managing the PostgreSQL database.
 - **Lombok** to reduce code verbosity.
 - **JUnit** for unit testing.
